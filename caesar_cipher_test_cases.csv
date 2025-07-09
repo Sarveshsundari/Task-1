@@ -1,0 +1,9 @@
+message,shift,mode,expected_output
+Hello World,3,encrypt,Khoor Zruog
+Khoor Zruog,3,decrypt,Hello World
+Python Programming,5,encrypt,Udtymts Uwtlwfrrnsl
+Udtymts Uwtlwfrrnsl,5,decrypt,Python Programming
+Attack at dawn!,1,encrypt,Buubdl bu ebxo!
+Buubdl bu ebxo!,1,decrypt,Attack at dawn!
+1234 & ABC,2,encrypt,1234 & CDE
+CDE,2,decrypt,ABC
